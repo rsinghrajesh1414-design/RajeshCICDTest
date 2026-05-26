@@ -1,0 +1,7 @@
+E:\PROJECTS\Test\RajeshTestCICD\RajeshTestCICD\obj\Release\net8.0\PubTmp\Out\RajeshTestCICD.exe
+E:\PROJECTS\Test\RajeshTestCICD\RajeshTestCICD\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\PROJECTS\Test\RajeshTestCICD\RajeshTestCICD\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\PROJECTS\Test\RajeshTestCICD\RajeshTestCICD\obj\Release\net8.0\PubTmp\Out\RajeshTestCICD.dll
+E:\PROJECTS\Test\RajeshTestCICD\RajeshTestCICD\obj\Release\net8.0\PubTmp\Out\RajeshTestCICD.deps.json
+E:\PROJECTS\Test\RajeshTestCICD\RajeshTestCICD\obj\Release\net8.0\PubTmp\Out\RajeshTestCICD.runtimeconfig.json
+E:\PROJECTS\Test\RajeshTestCICD\RajeshTestCICD\obj\Release\net8.0\PubTmp\Out\RajeshTestCICD.pdb
