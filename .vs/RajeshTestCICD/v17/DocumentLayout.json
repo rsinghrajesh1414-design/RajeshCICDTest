@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\PROJECTS\\Test\\RajeshTestCICD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FB86314-02C5-4838-975A-D3397079C149}|RajeshTestCICD\\RajeshTestCICD.csproj|e:\\projects\\test\\rajeshtestcicd\\rajeshtestcicd\\.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8FB86314-02C5-4838-975A-D3397079C149}|RajeshTestCICD\\RajeshTestCICD.csproj|solutionrelative:rajeshtestcicd\\.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8FB86314-02C5-4838-975A-D3397079C149}|RajeshTestCICD\\RajeshTestCICD.csproj|e:\\projects\\test\\rajeshtestcicd\\rajeshtestcicd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8FB86314-02C5-4838-975A-D3397079C149}|RajeshTestCICD\\RajeshTestCICD.csproj|solutionrelative:rajeshtestcicd\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB86314-02C5-4838-975A-D3397079C149}|RajeshTestCICD\\RajeshTestCICD.csproj|e:\\projects\\test\\rajeshtestcicd\\rajeshtestcicd\\.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8FB86314-02C5-4838-975A-D3397079C149}|RajeshTestCICD\\RajeshTestCICD.csproj|solutionrelative:rajeshtestcicd\\.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "deploy.yml",
               "DocumentMoniker": "E:\\PROJECTS\\Test\\RajeshTestCICD\\RajeshTestCICD\\.github\\workflows\\deploy.yml",
               "RelativeDocumentMoniker": "RajeshTestCICD\\.github\\workflows\\deploy.yml",
@@ -38,20 +38,20 @@
               "RelativeToolTip": "RajeshTestCICD\\.github\\workflows\\deploy.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-05-26T14:19:11.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T14:19:11.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\PROJECTS\\Test\\RajeshTestCICD\\RajeshTestCICD\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RajeshTestCICD\\Views\\Home\\Index.cshtml",
               "ToolTip": "E:\\PROJECTS\\Test\\RajeshTestCICD\\RajeshTestCICD\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "RajeshTestCICD\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-26T13:46:07.58Z"
+              "WhenOpened": "2026-05-26T13:46:07.58Z",
+              "EditorCaption": ""
             }
           ]
         }
